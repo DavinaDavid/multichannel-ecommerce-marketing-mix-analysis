@@ -84,7 +84,10 @@ You'll need pandas, numpy, scikit-learn, matplotlib, seaborn, shap and jupyter.
 ```
 data/        raw dataset (not included)
 notebooks/   the analysis notebook
-reports/     project slides (PDF)
+outputs/Tables   project outputs in table form 
+outputs/Charts   project outputs in charts form
+MA_Project_PPT.pdf detailed presentation of projects 
+
 ```
 
 ## Author
